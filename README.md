@@ -1,4 +1,4 @@
-# eep-class-aware-ood  
+# Deep-class-aware-ood  
 A class-aware cross-validation framework for estimating out-of-distribution (OOD) uncertainty thresholds in open-set recognition.
 
 ## 🌱 Introduction
